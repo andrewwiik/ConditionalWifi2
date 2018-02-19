@@ -1,0 +1,9 @@
+Package: com.ioscreatix.conditionalwifi2
+Name: ConditionalWiFi2
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Restrict certain apps from accessing wifi on iOS 10
+Maintainer: iOS Creatix
+Author: iOS Creatix
+Section: Tweaks
